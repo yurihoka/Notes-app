@@ -1,0 +1,28 @@
+.dashboard {
+  background-color: black;
+  height: 100vh;
+  max-width: 700px;
+  padding: 20px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.dashboard-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dashboard-bottom {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
+.dashboard img {
+  width: 40px;
+  background-color: gray;
+  padding: 10px;
+  border-radius: 7px;
+  cursor: pointer;
+}
