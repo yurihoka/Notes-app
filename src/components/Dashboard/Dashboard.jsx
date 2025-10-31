@@ -1,5 +1,5 @@
 import React from "react";
-import "./dashboard.css";
+import "./Dashboard.css";
 import search_icon from "../../assets/search-icon.png";
 import add_icon from "../../assets/add-icon.png";
 
